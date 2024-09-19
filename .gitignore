@@ -7,10 +7,10 @@ __pycache__/
 *.so
 
 # examples
-examples/
+to-process/
 
 # results
-results/
+output/
 
 # Distribution / packaging
 .Python
